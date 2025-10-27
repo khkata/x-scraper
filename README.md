@@ -32,7 +32,7 @@ pandas>=2.2.0
 1. リポジトリをクローンまたはダウンロード
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/khkata/x-scraper.git
 cd x-scraper
 ```
 
